@@ -1,0 +1,20 @@
+{
+  "name": "woodpeck-front",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Vadim Zolotokrylin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hommedeplage/woodpeck-front",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
